@@ -50,7 +50,7 @@ The following cities represent the highest profit-generating locations in the da
 
 These cities demonstrate strong sales performance combined with healthy profit margins, making them key contributors to overall business profitability.
 
-🏙 Bottom 10 Cities by Profit
+Bottom 10 Cities by Profit
 
 The following cities recorded the highest losses and negatively impacted total profitability:
 
