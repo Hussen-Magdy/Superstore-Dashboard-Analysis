@@ -1,114 +1,32 @@
 SuperStore Sales & Profitability Dashboard
+Project Overview
 
 This project analyzes the Superstore dataset to evaluate sales performance, profitability, profit margins, discount strategies, and geographic trends using Microsoft Excel and Pivot Tables.
-The goal is to identify key profit drivers, uncover loss-making areas, and provide actionable business insights.
-Key KPIs :
-Total Sales: 2,297,200$
-Total Profit: 286,397$
+The objective is to identify key profit drivers, highlight loss-making areas, and provide actionable business insights through an interactive dashboard.
+
+Key KPIs
+Total Sales: $2,297,200
+Total Profit: $286,397
 Average Profit Margin: 12.03%
 
-Regional Analysis
-The West region contributes the highest share of total profit.
-The East region follows closely, while the Central region shows the lowest profitability.
-This indicates strong regional differences in operational performance.
+Key Insights
 
-Segment Analysis
-The Consumer segment is the most profitable.
-Corporate and Home Office segments generate lower profits, suggesting potential for targeted pricing or customer strategies.
+West region is the most profitable, followed by the East, while the Central region shows the weakest performance.
+The Consumer segment generates the highest profit compared to Corporate and Home Office.
+Standard Class shipping drives the majority of profit, whereas Same Day shipping adds minimal value due to high costs.
+Technology category leads in both profit and margin, while Furniture has the lowest margin.
+High discounts do not always result in higher profitability; some sub-categories show negative margins despite heavy discounting.
+Geographic analysis reveals clear differences in profitability across cities and states, with some high-sales locations still generating losses.
 
-Shipping Mode Analysis
-Standard Class shipping generates the highest profit.
-Same Day shipping contributes minimal profit despite higher costs.
-Optimizing shipping mode selection can significantly improve overall profitability.
+Geographic Highlights
+Top Performing Cities: New York City, Los Angeles, Seattle
 
-Category Performance
-Technology leads in both total profit and average margin.
-Office Supplies show moderate performance.
-Furniture has the lowest margin, indicating pricing, cost, or discounting issues.
+Worst Performing Cities: Philadelphia, Houston, San Antonio
 
-Sub-Category: Margin vs Discount
-High discounts do not always correlate with higher margins.
-Sub-categories such as Tables and Appliances show negative margins despite heavy discounting.
-Categories like Copiers and Labels maintain high margins with controlled discounts.
-This highlights the importance of discount optimization rather than aggressive discounting.
+Top States: California, New York
 
-Geographic Performance
-Top 10 Cities by Profit
+Worst State: Texas
 
-The following cities represent the highest profit-generating locations in the dataset:
 
-1-New York City
-2-Los Angeles
-3-Seattle
-4-San Francisco
-5-Detroit
-6-Lafayette
-7-Jackson
-8-Atlanta
-9-Minneapolis
-10-San Diego
-
-These cities demonstrate strong sales performance combined with healthy profit margins, making them key contributors to overall business profitability.
-
-Bottom 10 Cities by Profit
-
-The following cities recorded the highest losses and negatively impacted total profitability:
-
-1-Philadelphia
-2-Houston
-3-San Antonio
-4-Lancaster
-5-Chicago
-6-Burlington
-7-Dallas
-8-Phoenix
-9-Aurora
-10-Jacksonville
-
-These cities may suffer from high operational costs, excessive discounting, or inefficient shipping strategies, indicating a need for further investigation and corrective action.
-
-Top 10 States by Profit
-
-The states with the highest overall profitability are:
-
-1-California
-2-New York
-3-Washington
-4-Michigan
-5-Indiana
-6-Georgia
-7-Virginia
-8-Minnesota
-9-Kentucky
-10-Delaware
-
-These states represent the strongest markets in terms of revenue generation and profit contribution.
-
-Bottom 10 States by Profit
-
-The states with the lowest profitability (net losses) are:
-
-1-Texas
-2-Tennessee
-3-Pennsylvania
-4-Ohio
-5-North Carolina
-6-Illinois
-7-Florida
-8-Oregon
-9-Colorado
-10-Arizona
-
-Among them, Texas stands out as the worst-performing state, recording the highest overall loss.
-
-Geographic Insights Summary
-Profitability varies significantly across both cities and states.
-High sales volume does not always guarantee profitability at the geographic level.
-Loss-making cities and states should be analyzed further to assess pricing strategy, discount levels, logistics costs, and product mix.
-Geographic analysis is essential for optimizing regional strategies and improving overall business performance.
-
-Business Takeaways
-Profitability depends more on margin control than sales volume.
-Discount strategies must be carefully managed to avoid losses.
-Logistics and shipping decisions have a major impact on profit.
-Regional and city-level analysis is essential for strategic decision-making.
+Note:
+A detailed analysis, including full geographic breakdown (cities & states) and business recommendations, is available in the full report included in this repository.
